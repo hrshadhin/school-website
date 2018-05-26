@@ -2,7 +2,7 @@
 HTML boilerplate template for school website
 
 
-![Demo](http://sms.hrshadhin.me)
+[Demo](http://sms.hrshadhin.me)
 
 # usage
 `npm install`
@@ -12,6 +12,4 @@ or
 
 # screenshots
 
-(src/screenshots/1.png)
-(src/screenshots/2.png)
-(src/screenshots/3.png)
+![](src/screenshots/1.png)
